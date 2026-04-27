@@ -46,4 +46,10 @@ This project is:
 - Easy to understand for beginners  
 - Fun and interactive for demos  
 - A practical example of blockchain rewards  
-- Perfect for school or bootcamp presentations  
+- Perfect for school or bootcamp presentations
+
+  ## Contract
+  https://stellar.expert/explorer/testnet/tx/d052afe1ab5216301d0b525deefa214566c5b5cfde488607daed9b5b034f9510
+  <img width="1890" height="781" alt="image" src="https://github.com/user-attachments/assets/749b9087-7953-4095-bc3e-da973e1fa693" />
+  ## Contract ID
+  - CCGV7WP5DUQIQVMX2B7UD6HY3IPJUNZNU4E456FAAGUSGCUJO4CQEN2P
